@@ -1,0 +1,27 @@
+{
+  "name": "spcanvas",
+  "version": "1.0.0",
+  "description": "Make configurable canvas easily with spcanvas",
+  "main": "index.js",
+  "keywords": [
+    "discanvas",
+    "spcanvas",
+    "discord",
+    "discord.js",
+    "canvas",    
+    "spotify"  
+  ],
+  "scripts": {
+    "test": "node ./test/index"
+  },
+  "author": "ARYANOP-Radio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ARYANOP-Radio/spcanvas"
+  },
+  "homepage": "https://github.com/ARYANOP-Radio/spcanvas#readme",
+  "dependencies": {
+    "canvas": "^2.9.3",
+    "dayjs": "^1.11.2"
+  }
+}
